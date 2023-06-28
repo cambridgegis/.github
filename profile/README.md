@@ -3,7 +3,7 @@ The City of Cambridge is committed to building repositories for data to be used 
 
 For a more orderly list of datasets available in this organization, please see [Cambridge GIS Open Data on GitHub](http://cambridgegis.github.io/gisdata.html).
 
-#### Popular Repositories
+#### Most commonly requested repos
 <a href="https://github.com/cambridgegis/cambridgegis_data">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cambridgegis&repo=cambridgegis_data&theme=algolia" />
 </a>
