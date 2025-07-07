@@ -2,7 +2,7 @@
     <h1>:world_map: Welcome to Cambridge GIS on GitHub :world_map:</h1>
 </div>
 <p align='center'>
-    <a href="https://twitter.com/cambridgegis"><img height="30" src="https://raw.githubusercontent.com/cambridgegis/.github/main/images/social/Twitter%20Logo%20blue.svg"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/cambridgegis"><img height="20" src="https://raw.githubusercontent.com/cambridgegis/.github/main/images/social/Twitter%20Logo%20blue.svg"></a>&nbsp;&nbsp;
 </p>
 The City of Cambridge is committed to building repositories for data to be used by developers and for public consumption. Cambridge GIS has posted the majority of the data sets on this official City of Cambridge site. Some larger size files which do not lend themselves to this site (such as elevation and raster data) are available for download on our <a href="https://www.cambridgema.gov/GIS/gisdata">Data Dictionary</a> site.
 
