@@ -10,11 +10,11 @@ For a more orderly list of datasets available in this organization, please see <
 
 #### Most commonly requested repos
 <a href="https://github.com/cambridgegis/cambridgegis_data">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cambridgegis&repo=cambridgegis_data&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=cambridgegis&repo=cambridgegis_data&theme=algolia" />
 </a>
 <a href="https://github.com/cambridgegis/cambridgegis_data_address">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cambridgegis&repo=cambridgegis_data_address&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=cambridgegis&repo=cambridgegis_data_address&theme=algolia" />
 </a>
 <a href="https://github.com/cambridgegis/cambridgegis_data_assessing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cambridgegis&repo=cambridgegis_data_assessing&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=cambridgegis&repo=cambridgegis_data_assessing&theme=algolia" />
 </a>
